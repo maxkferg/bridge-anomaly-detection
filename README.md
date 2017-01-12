@@ -11,7 +11,11 @@ a dataset. This file can be run using:
 python run.py
 ```
 
-### utils.read_data(start,end)
+### utils
+This file contains a set of utilities for reading and manipulating data.
+Most of this logic will be replaced with database-specific code.
+
+#### utils.read_data(start,end)
 The data.csv file contains acceleration data from 12 accelerometers.
 This data must be read into a numpy array before it can be used to train or
 test the SVR model
