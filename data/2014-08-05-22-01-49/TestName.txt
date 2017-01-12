@@ -1,0 +1,113 @@
+DAQ Data Run:
+	Tue Aug  5 22:01:30 2014
+
+DAQ Start Time:
+	2014-08-05  22:01:49
+
+DAQ Settings:
+	- Sampling frequency, system 0:
+		100 Hz
+	- Sampling time system 0:
+		60 seconds
+	- Samples per polling cycle system 0:
+		6000 samples
+	- 22 sensing unit(s) used system 0
+		- WSU 158 [0 1 2]
+		- WSU 223 [0 1 2]
+		- WSU 23 [0 1 2]
+		- WSU 44 [0 1 2]
+		- WSU 29 [0 1 2]
+		- WSU 61 [0 2]
+		- WSU 28 [0 2]
+		- WSU 128 [0 2]
+		- WSU 219 [0 2]
+		- WSU 183 [0 2]
+		- WSU 45 [0 1 2]
+		- WSU 52 [0 2]
+		- WSU 209 [0 1 2]
+		- WSU 56 [0 1 2]
+		- WSU 227 [0 1 2]
+		- WSU 75 [0 1]
+		- WSU 92 [0 1 2]
+		- WSU 237 [0]
+		- WSU 238 [0]
+		- WSU 239 [0]
+		- WSU 240 [0]
+		- WSU 241 [0]
+	- Sampling frequency, system 1:
+		200 Hz
+	- Sampling time system 1:
+		60 seconds
+	- Samples per polling cycle system 1:
+		12000 samples
+	- 11 sensing unit(s) used system 1
+		- WSU 76 [0]
+		- WSU 162 [0]
+		- WSU 191 [0]
+		- WSU 161 [0]
+		- WSU 38 [0]
+		- WSU 79 [0]
+		- WSU 131 [0]
+		- WSU 7 [0]
+		- WSU 234 [0 2]
+		- WSU 235 [0]
+		- WSU 31 [0]
+	- Effective Sampling frequency, system 2:
+		10 Hz
+	- Sampling time system 2:
+		60 seconds
+	- Samples per polling cycle system 2:
+		600 samples
+	- 5 sensing unit(s) used system 2
+		- WSU 233 [0]
+		- WSU 232 [0]
+		- WSU 63 [0]
+		- WSU 231 [0]
+		- WSU 218 [0]
+	- Sampling frequency, system 3:
+		1000 Hz
+	- Sampling time system 3:
+		10 seconds
+	- Samples per polling cycle system 3:
+		10000 samples
+	- 1 sensing unit(s) used system 3
+		- WSU 134 [0 1 2]
+		- RSSI WSU 158 [0 1 2] : -142.000000
+		- RSSI WSU 223 [0 1 2] : 58.000000
+		- RSSI WSU 23 [0 1 2] : -135.000000
+		- RSSI WSU 44 [0 1 2] : -54.000000
+		- RSSI WSU 29 [0 1 2] : -115.000000
+		- RSSI WSU 61 [0 2] : -129.000000
+		- RSSI WSU 28 [0 2] : 50.000000
+		- RSSI WSU 128 [0 2] : -84.000000
+		- RSSI WSU 219 [0 2] : 11.000000
+		- RSSI WSU 183 [0 2] : -22.000000
+		- RSSI WSU 45 [0 1 2] : -141.000000
+		- RSSI WSU 52 [0 2] : -42.000000
+		- RSSI WSU 209 [0 1 2] : 51.000000
+		- RSSI WSU 56 [0 1 2] : 11.000000
+		- RSSI WSU 227 [0 1 2] : -156.000000
+		- RSSI WSU 75 [0 1] : -3.000000
+		- RSSI WSU 92 [0 1 2] : 47.000000
+		- RSSI WSU 237 [0] : -142.000000
+		- RSSI WSU 238 [0] : -173.000000
+		- RSSI WSU 239 [0] : -44.000000
+		- RSSI WSU 240 [0] : 34.000000
+		- RSSI WSU 241 [0] : -65.000000
+		- RSSI WSU 76 [0] : -16.000000
+		- RSSI WSU 162 [0] : -130.000000
+		- RSSI WSU 191 [0] : -161.000000
+		- RSSI WSU 161 [0] : -10.000000
+		- RSSI WSU 38 [0] : -129.000000
+		- RSSI WSU 79 [0] : 29.000000
+		- RSSI WSU 131 [0] : -81.000000
+		- RSSI WSU 7 [0] : -60.000000
+		- RSSI WSU 234 [0 2] : -99.000000
+		- RSSI WSU 235 [0] : -84.000000
+		- RSSI WSU 31 [0] : -38.000000
+		- RSSI WSU 233 [0] : -81.000000
+		- RSSI WSU 232 [0] : 16.000000
+		- RSSI WSU 63 [0] : -23.000000
+		- RSSI WSU 231 [0] : -92.000000
+		- RSSI WSU 218 [0] : -92.000000
+		- RSSI WSU 134 [0 1 2] : -97.000000
